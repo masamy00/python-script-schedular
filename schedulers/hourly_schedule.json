@@ -1,0 +1,5 @@
+{
+  "frequency": "hourly",
+  "minute": 40,
+  "timeout": 1800
+}

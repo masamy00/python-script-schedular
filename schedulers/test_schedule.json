@@ -1,0 +1,9 @@
+{
+  "frequency": "daily",
+  "times": [
+    {"hour": 12, "minute": 0},
+    {"hour": 14, "minute": 30}
+  ],
+  "days": ["Monday", "Wednesday", "Friday"],
+  "timeout": 3600
+}

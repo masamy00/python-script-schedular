@@ -1,0 +1,7 @@
+{
+  "frequency": "weekly",
+  "days": ["Monday", "Wednesday", "Friday"],
+  "hour": 8,
+  "minute": 15,
+  "timeout": 2400
+}

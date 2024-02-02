@@ -1,0 +1,8 @@
+{
+  "frequency": "daily",
+  "clocks": [
+    {"hour": 12, "minute": 0},
+    {"hour": 14, "minute": 30}
+  ],
+  "timeout": 3600
+}

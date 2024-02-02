@@ -1,0 +1,6 @@
+{
+  "frequency": "daily",
+  "hour": 12,
+  "minute": 30,
+  "timeout": 1800
+}
